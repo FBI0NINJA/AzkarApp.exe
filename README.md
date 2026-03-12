@@ -1,16 +1,16 @@
-A simple application that displays daily Islamic Adhkar (remembrances) such as morning and evening supplications, helping users remember and recite them easily.
+A simple application that displays daily Islamic Azhkar (remembrances) such as morning and evening supplications, helping users remember and recite them easily.
 
 Longer Description (for README)
 
-This project is a simple Adhkar application designed to help Muslims easily access and read daily Islamic remembrances. The program provides organized sections for different types of Adhkar, making it easier for users to maintain their daily remembrance of Allah.
+This project is a simple Azhkar application designed to help Muslims easily access and read daily Islamic remembrances. The program provides organized sections for different types of Adhkar, making it easier for users to maintain their daily remembrance of Allah.
 
 Features
 
-Morning Adhkar
+Morning Azhkar
 
-Evening Adhkar
+Evening Azhkar
 
-Adhkar after prayer
+Axhkar after prayer
 
 Simple and user-friendly interface
 
